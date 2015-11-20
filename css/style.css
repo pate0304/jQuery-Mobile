@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+img{
+	width: 100%;
+    height: auto;
+	}
+
+
+#me{
+		margin: 0 100px;
+		}
+		
+#mep{
+			text-align: center;
+			}
+
+#start{
+	position:relative;
+      top:+150px;
+	}
